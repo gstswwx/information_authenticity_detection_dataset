@@ -1,0 +1,1002 @@
+[
+  {
+    "claim": "感染新冠病毒可以治癌症",
+    "id": 1,
+    "veracity": "false"
+  },
+  {
+    "claim": "憋气 20 秒可以检测肺部是否健康",
+    "id": 2,
+    "veracity": "false"
+  },
+  {
+    "claim": "桑拿、汗蒸能预防新冠病毒",
+    "id": 3,
+    "veracity": "false"
+  },
+  {
+    "claim": "上海 27 日起对入沪车辆逢车必检",
+    "id": 4,
+    "veracity": "false"
+  },
+  {
+    "claim": "江苏一超市柜台商品及人员涉疫",
+    "id": 5,
+    "veracity": "false"
+  },
+  {
+    "claim": "进口的冷链食品不能买了",
+    "id": 6,
+    "veracity": "false"
+  },
+  {
+    "claim": "上海某区正进行全员核酸检测",
+    "id": 7,
+    "veracity": "false"
+  },
+  {
+    "claim": "哈尔滨香坊区 70 多人核酸阳性",
+    "id": 8,
+    "veracity": "false"
+  },
+  {
+    "claim": "疫情期间大强度锻炼可提高抵抗力",
+    "id": 9,
+    "veracity": "false"
+  },
+  {
+    "claim": "吃降压药会增加感染病毒的风险",
+    "id": 10,
+    "veracity": "false"
+  },
+  {
+    "claim": "第一例新冠肺炎患者来自美国",
+    "id": 11,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠病毒传播途径有变化",
+    "id": 12,
+    "veracity": "false"
+  },
+  {
+    "claim": "十三名男女生感染 sk5 病毒",
+    "id": 13,
+    "veracity": "false"
+  },
+  {
+    "claim": "十年前就有人预测疫情",
+    "id": 14,
+    "veracity": "false"
+  },
+  {
+    "claim": "戴多层口罩才能防住病毒",
+    "id": 15,
+    "veracity": "false"
+  },
+  {
+    "claim": "确诊者家中的狗检测呈弱阳性",
+    "id": 16,
+    "veracity": "true"
+  },
+  {
+    "claim": "家畜家禽海鲜都不能吃了",
+    "id": 17,
+    "veracity": "false"
+  },
+  {
+    "claim": "多喝单枞茶多吃草莓可防肺炎",
+    "id": 18,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠病毒可以通过蚊虫叮咬传播",
+    "id": 19,
+    "veracity": "false"
+  },
+  {
+    "claim": "中间层烧不着的口罩才是真的",
+    "id": 20,
+    "veracity": "false"
+  },
+  {
+    "claim": "喝茶可以预防新冠病毒",
+    "id": 21,
+    "veracity": "false"
+  },
+  {
+    "claim": "体温枪伤眼，造成永久伤害",
+    "id": 22,
+    "veracity": "false"
+  },
+  {
+    "claim": "燃放烟花可以预防新冠病毒",
+    "id": 23,
+    "veracity": "false"
+  },
+  {
+    "claim": "磷酸氯喹就是原来的土霉素",
+    "id": 24,
+    "veracity": "false"
+  },
+  {
+    "claim": "俄罗斯证实新冠病毒系人工合成",
+    "id": 25,
+    "veracity": "false"
+  },
+  {
+    "claim": "每次外出回家都需要洗头",
+    "id": 26,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠病毒会通过皮肤侵入人体",
+    "id": 27,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠病毒可能会长期存在",
+    "id": 28,
+    "veracity": "true"
+  },
+  {
+    "claim": "牛蛙被列入禁食名单",
+    "id": 29,
+    "veracity": "false"
+  },
+  {
+    "claim": "防溢乳垫贴在口罩内可延长使用时间",
+    "id": 30,
+    "veracity": "false"
+  },
+  {
+    "claim": "蜂疗能治愈新冠肺炎",
+    "id": 31,
+    "veracity": "false"
+  },
+  {
+    "claim": "精油芳疗可以预防新冠肺炎",
+    "id": 32,
+    "veracity": "false"
+  },
+  {
+    "claim": "红糖和姜葱蒜熬水喝可防新冠病毒",
+    "id": 33,
+    "veracity": "false"
+  },
+  {
+    "claim": "银离子抗菌液能杀灭新冠病毒",
+    "id": 34,
+    "veracity": "false"
+  },
+  {
+    "claim": "盐水漱口能预防感染新冠病毒",
+    "id": 35,
+    "veracity": "false"
+  },
+  {
+    "claim": "零号病人是武汉病毒研究所研究生",
+    "id": 36,
+    "veracity": "false"
+  },
+  {
+    "claim": "千万别出门玩雪，会感染新冠病毒",
+    "id": 37,
+    "veracity": "false"
+  },
+  {
+    "claim": "别吃鱼，某地有 121 个鱼塘感染",
+    "id": 38,
+    "veracity": "false"
+  },
+  {
+    "claim": "出现流涕和咳痰就不是新冠肺炎",
+    "id": 39,
+    "veracity": "false"
+  },
+  {
+    "claim": "某家的猪崽会说话，是瘟疫的前兆",
+    "id": 40,
+    "veracity": "false"
+  },
+  {
+    "claim": "环保酵素可以消灭新冠病毒",
+    "id": 41,
+    "veracity": "false"
+  },
+  {
+    "claim": "带毛领或绒线的外套容易吸附病毒",
+    "id": 42,
+    "veracity": "false"
+  },
+  {
+    "claim": "康复者血液有可能治好新冠肺炎",
+    "id": 43,
+    "veracity": "true"
+  },
+  {
+    "claim": "喝高度酒能抵抗新冠病毒",
+    "id": 44,
+    "veracity": "false"
+  },
+  {
+    "claim": "口罩喷酒精遇 84 消毒瞬间死亡",
+    "id": 45,
+    "veracity": "false"
+  },
+  {
+    "claim": "烟民感染新冠病毒率远低于非烟民",
+    "id": 46,
+    "veracity": "false"
+  },
+  {
+    "claim": "干手器能在 30 秒内杀死新冠病毒",
+    "id": 47,
+    "veracity": "false"
+  },
+  {
+    "claim": "把某些药物敷在脚底可以防病毒",
+    "id": 48,
+    "veracity": "false"
+  },
+  {
+    "claim": "候鸟迁徙会携带传播新冠病毒",
+    "id": 49,
+    "veracity": "false"
+  },
+  {
+    "claim": "深呼吸再憋十秒可测是否有肺炎",
+    "id": 50,
+    "veracity": "false"
+  },
+  {
+    "claim": "保持喉咙湿润可以预防病毒",
+    "id": 51,
+    "veracity": "false"
+  },
+  {
+    "claim": "晒太阳可以杀灭新型冠状病毒",
+    "id": 52,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠病毒属于 SARS 病毒",
+    "id": 53,
+    "veracity": "false"
+  },
+  {
+    "claim": "洋葱可以预防新冠肺炎",
+    "id": 54,
+    "veracity": "false"
+  },
+  {
+    "claim": "吃果蔬和肉蛋会感染新冠病毒",
+    "id": 55,
+    "veracity": "false"
+  },
+  {
+    "claim": "口罩里垫一张纸巾，就能反复使用",
+    "id": 56,
+    "veracity": "false"
+  },
+  {
+    "claim": "钟南山团队开中药凉茶处方",
+    "id": 57,
+    "veracity": "false"
+  },
+  {
+    "claim": "空气里有气溶胶，绝不能开窗通风",
+    "id": 58,
+    "veracity": "false"
+  },
+  {
+    "claim": "核酸检验频繁假阴性，有大量漏诊",
+    "id": 59,
+    "veracity": "false"
+  },
+  {
+    "claim": "电吹风对手和面部吹 30 秒能消毒",
+    "id": 60,
+    "veracity": "false"
+  },
+  {
+    "claim": "多喝水多分泌粘液能防新冠病毒",
+    "id": 61,
+    "veracity": "false"
+  },
+  {
+    "claim": "普通肺炎的疫苗能预防新冠病毒",
+    "id": 62,
+    "veracity": "false"
+  },
+  {
+    "claim": "自来水采用上限标准加氯消毒",
+    "id": 63,
+    "veracity": "false"
+  },
+  {
+    "claim": "病毒防护卡挂身上能防新冠病毒",
+    "id": 64,
+    "veracity": "false"
+  },
+  {
+    "claim": "用生理盐水洗鼻子可预防新冠病毒",
+    "id": 65,
+    "veracity": "false"
+  },
+  {
+    "claim": "益生菌能提高免疫力预防新冠肺炎",
+    "id": 66,
+    "veracity": "false"
+  },
+  {
+    "claim": "鞋要与居室隔离，不要放在家里",
+    "id": 67,
+    "veracity": "true"
+  },
+  {
+    "claim": "别往空气中喷撒酒精，会爆炸",
+    "id": 68,
+    "veracity": "true"
+  },
+  {
+    "claim": "有人在身上喷消毒水烧着了",
+    "id": 69,
+    "veracity": "false"
+  },
+  {
+    "claim": "比口罩更重要的是手套",
+    "id": 70,
+    "veracity": "false"
+  },
+  {
+    "claim": "84 消毒液不能和洁厕灵一起用",
+    "id": 71,
+    "veracity": "true"
+  },
+  {
+    "claim": "丁香医生说童子尿可预防新冠病毒",
+    "id": 72,
+    "veracity": "false"
+  },
+  {
+    "claim": "目前还没有可防治新冠病毒的药物",
+    "id": 73,
+    "veracity": "true"
+  },
+  {
+    "claim": "双黄连可以预防新冠病毒",
+    "id": 74,
+    "veracity": "false"
+  },
+  {
+    "claim": "挂烫机可杀灭衣服上的新冠病毒",
+    "id": 75,
+    "veracity": "false"
+  },
+  {
+    "claim": "用 56℃ 的热水洗澡能对抗病毒",
+    "id": 76,
+    "veracity": "false"
+  },
+  {
+    "claim": "紫外线消毒灯能杀灭新冠病毒",
+    "id": 77,
+    "veracity": "true"
+  },
+  {
+    "claim": "含姜片可以预防新冠病毒",
+    "id": 78,
+    "veracity": "false"
+  },
+  {
+    "claim": "熏艾可以预防新冠肺炎",
+    "id": 79,
+    "veracity": "false"
+  },
+  {
+    "claim": "用微波炉加热口罩可以消毒",
+    "id": 80,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠病毒通过眼神对视传播",
+    "id": 81,
+    "veracity": "false"
+  },
+  {
+    "claim": "全身喷洒酒精可起到消毒效果",
+    "id": 82,
+    "veracity": "false"
+  },
+  {
+    "claim": "吃大蒜可以杀灭新冠病毒",
+    "id": 83,
+    "veracity": "false"
+  },
+  {
+    "claim": "喝 60℃ 的水可以杀死病毒",
+    "id": 84,
+    "veracity": "false"
+  },
+  {
+    "claim": "散步会感染新型冠状病毒肺炎",
+    "id": 85,
+    "veracity": "false"
+  },
+  {
+    "claim": "治疗主要靠激素，会成为废人",
+    "id": 86,
+    "veracity": "false"
+  },
+  {
+    "claim": "病毒会存在手机和电梯按键上",
+    "id": 87,
+    "veracity": "true"
+  },
+  {
+    "claim": "口罩越厚，防病毒效果越好",
+    "id": 88,
+    "veracity": "false"
+  },
+  {
+    "claim": "在人中涂风油精可以预防感染",
+    "id": 89,
+    "veracity": "false"
+  },
+  {
+    "claim": "武汉来的快递要拒收",
+    "id": 90,
+    "veracity": "false"
+  },
+  {
+    "claim": "酒精浓度越高，消毒效果越好",
+    "id": 91,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠病毒 2018 年就发现了",
+    "id": 92,
+    "veracity": "false"
+  },
+  {
+    "claim": "带呼吸阀的口罩没有用",
+    "id": 93,
+    "veracity": "false"
+  },
+  {
+    "claim": "熏醋可以预防新冠病毒",
+    "id": 94,
+    "veracity": "false"
+  },
+  {
+    "claim": "香油滴鼻孔可防病毒传播",
+    "id": 95,
+    "veracity": "false"
+  },
+  {
+    "claim": "吃板蓝根可以预防新冠病毒",
+    "id": 96,
+    "veracity": "false"
+  },
+  {
+    "claim": "吃抗生素可以预防新冠病毒",
+    "id": 97,
+    "veracity": "false"
+  },
+  {
+    "claim": "新冠肺炎是香蕉导致的",
+    "id": 98,
+    "veracity": "false"
+  },
+  {
+    "claim": "病毒感染的都是老年人",
+    "id": 99,
+    "veracity": "false"
+  },
+  {
+    "claim": "不吃野味就不会被感染",
+    "id": 100,
+    "veracity": "false"
+  },
+  {
+    "claim": "吃奥司他韦可以预防新冠病毒",
+    "id": 101,
+    "veracity": "false"
+  },
+  {
+    "claim": "吸烟就能预防病毒",
+    "id": 102,
+    "veracity": "false"
+  },
+  {
+    "claim": "出门要戴护目镜",
+    "id": 103,
+    "veracity": "false"
+  },
+  {
+    "claim": "身边没有疫情不用戴口罩",
+    "id": 104,
+    "veracity": "false"
+  },
+  {
+    "claim": "桑拿、汗蒸能预防新冠病毒",
+    "id": 105,
+    "veracity": "false"
+  },
+  {
+    "claim": "吃乳铁蛋白能预防新冠病毒",
+    "id": 106,
+    "veracity": "false"
+  },
+  {
+    "claim": "没感冒时，口罩反着戴",
+    "id": 107,
+    "veracity": "false"
+  },
+  {
+    "claim": "口罩用过要剪碎或消毒",
+    "id": 108,
+    "veracity": "false"
+  },
+  {
+    "claim": "某某城市飞机喷洒消毒药水",
+    "id": 109,
+    "veracity": "false"
+  },
+  {
+    "claim": "此次疫情系解放军导致",
+    "id": 110,
+    "veracity": "false"
+  },
+  {
+    "claim": "春节燃放烟花可以消毒防感染",
+    "id": 111,
+    "veracity": "false"
+  },
+  {
+    "claim": "肿瘤患者不建议接种新冠疫苗",
+    "id": 112,
+    "veracity": "true"
+  },
+  {
+    "claim": "辉瑞新冠疫苗的有效率29％仅为假设",
+    "id": 113,
+    "veracity": "true"
+  },
+  {
+    "claim": "新冠疫苗已开放预约名额有限短信系诈骗",
+    "id": 114,
+    "veracity": "true"
+  },
+  {
+    "claim": "特朗普夫妇确诊新冠肺炎",
+    "id": 115,
+    "veracity": "true"
+  },
+  {
+    "claim": "新冠肺炎男性患者的死亡率更高",
+    "id": 116,
+    "veracity": "true"
+  },
+  {
+    "claim": "人类可能无法对新冠病毒获得持久的免疫保护",
+    "id": 117,
+    "veracity": "true"
+  },
+  {
+    "claim": "香港新冠“二次感染”病例意味着群体免疫可能无效",
+    "id": 118,
+    "veracity": "true"
+  },
+  {
+    "claim": "云南吃野生菌中毒死亡人数已超当地新冠死亡人数",
+    "id": 119,
+    "veracity": "true"
+  },
+  {
+    "claim": "西班牙从去年3月的废水检出新冠病毒相关研究漏洞大",
+    "id": 120,
+    "veracity": "true"
+  },
+  {
+    "claim": "北京低风险地区出京取消核酸证明",
+    "id": 121,
+    "veracity": "true"
+  },
+  {
+    "claim": "北京石景山万达现核酸阳性人员",
+    "id": 122,
+    "veracity": "true"
+  },
+  {
+    "claim": "点外卖感染新冠病毒的可能性极低",
+    "id": 123,
+    "veracity": "true"
+  },
+  {
+    "claim": "约基奇新冠病毒检测呈阳性",
+    "id": 124,
+    "veracity": "true"
+  },
+  {
+    "claim": "德约科维奇新冠病毒检测呈阳性",
+    "id": 125,
+    "veracity": "true"
+  },
+  {
+    "claim": "三文鱼感染新冠病毒并传播给人的可能性几乎为0",
+    "id": 126,
+    "veracity": "true"
+  },
+  {
+    "claim": "新冠肺炎“复阳”患者几乎不具备传染性",
+    "id": 127,
+    "veracity": "true"
+  },
+  {
+    "claim": "世界卫生组织5月1日重申新冠病毒源自自然界",
+    "id": 128,
+    "veracity": "true"
+  },
+  {
+    "claim": "吸烟者可能较易感染新型冠状病毒",
+    "id": 129,
+    "veracity": "true"
+  },
+  {
+    "claim": "儿童佩戴N95口罩可能会造成不可逆伤害",
+    "id": 130,
+    "veracity": "true"
+  },
+  {
+    "claim": "4月20日北京市朝阳区被列为疫情高风险地区",
+    "id": 131,
+    "veracity": "true"
+  },
+  {
+    "claim": "长期高浓度使用84消毒液，可能导致过敏性肺泡炎",
+    "id": 132,
+    "veracity": "true"
+  },
+  {
+    "claim": "上海高三年级、初三年级于4月27日返校开学",
+    "id": 133,
+    "veracity": "true"
+  },
+  {
+    "claim": "甘肃省已确定开学时间：4月9日起分批次有序开学",
+    "id": 134,
+    "veracity": "true"
+  },
+  {
+    "claim": "山东省已确定开学时间：高中毕业年级4月15日开学",
+    "id": 135,
+    "veracity": "true"
+  },
+  {
+    "claim": "新型冠状病毒无症状感染者存在传播风险",
+    "id": 136,
+    "veracity": "true"
+  },
+  {
+    "claim": "2020年全国高考延期一个月举行",
+    "id": 137,
+    "veracity": "true"
+  },
+  {
+    "claim": "湖南省教育厅通告：全省高三初三年级4月7日开学",
+    "id": 138,
+    "veracity": "true"
+  },
+  {
+    "claim": "英国首相鲍里斯确诊新冠肺炎",
+    "id": 139,
+    "veracity": "true"
+  },
+  {
+    "claim": "四川省教育厅已于3月25日确定高三初三开学时间",
+    "id": 140,
+    "veracity": "true"
+  },
+  {
+    "claim": "哈佛大学校长夫妇确诊新冠肺炎",
+    "id": 141,
+    "veracity": "true"
+  },
+  {
+    "claim": "德国总理默克尔居家隔离",
+    "id": 142,
+    "veracity": "true"
+  },
+  {
+    "claim": "江苏省政府公告开学时间，3月30日起分批次开学",
+    "id": 143,
+    "veracity": "true"
+  },
+  {
+    "claim": "中国球员武磊在西班牙确诊感染新冠病毒",
+    "id": 144,
+    "veracity": "true"
+  },
+  {
+    "claim": "布鲁塞尔地铁一男子舔手后把口水抹在车厢扶手上",
+    "id": 145,
+    "veracity": "true"
+  },
+  {
+    "claim": "汤姆·汉克斯宣布他和妻子感染新冠病毒",
+    "id": 146,
+    "veracity": "true"
+  },
+  {
+    "claim": "NBA官方确认暂停2019-2020赛季",
+    "id": 147,
+    "veracity": "true"
+  },
+  {
+    "claim": "政府通告：3月11日起南阳市全面恢复生产生活秩序",
+    "id": 148,
+    "veracity": "true"
+  },
+  {
+    "claim": "湖北黄冈村民误服二氧化氯消毒片",
+    "id": 149,
+    "veracity": "true"
+  },
+  {
+    "claim": "深圳一“新冠肺炎已治愈患者”闯地铁致安检员被隔离",
+    "id": 150,
+    "veracity": "true"
+  },
+  {
+    "claim": "研究发现新冠病毒的源头不是华南海鲜市场",
+    "id": 151,
+    "veracity": "true"
+  },
+  {
+    "claim": "视频：江西赣州解禁第四天赶集，多人未戴口罩",
+    "id": 152,
+    "veracity": "true"
+  },
+  {
+    "claim": "核酸检测结果阴性不能排除新型冠状病毒感染",
+    "id": 153,
+    "veracity": "true"
+  },
+  {
+    "claim": "2月17日起至疫情防控结束全国高速所有车免费通行",
+    "id": 154,
+    "veracity": "true"
+  },
+  {
+    "claim": "99.7%的无水乙醇可以稀释到75%后作消毒用",
+    "id": 155,
+    "veracity": "true"
+  },
+  {
+    "claim": "新型冠状病毒肺炎是自限性疾病",
+    "id": 156,
+    "veracity": "true"
+  },
+  {
+    "claim": "气溶胶多在ICU因呼吸机等操作产生，一般环境罕见",
+    "id": 157,
+    "veracity": "true"
+  },
+  {
+    "claim": "无症状患者也可以传播新型冠状病毒",
+    "id": 158,
+    "veracity": "true"
+  },
+  {
+    "claim": "吸入病毒携带者的二手烟可能会感染新型冠状病毒",
+    "id": 159,
+    "veracity": "true"
+  },
+  {
+    "claim": "使用酒精消毒，别往空气中喷，也别随便往自己身上喷",
+    "id": 160,
+    "veracity": "true"
+  },
+  {
+    "claim": "84消毒液与酒精混用会降低消毒效果",
+    "id": 161,
+    "veracity": "true"
+  },
+  {
+    "claim": "把饭做熟病毒就会被杀死",
+    "id": 162,
+    "veracity": "true"
+  },
+  {
+    "claim": "中央空调存在传播新型冠状病毒的可能性",
+    "id": 163,
+    "veracity": "true"
+  },
+  {
+    "claim": "新型冠状病毒感染者粪便里检测出核酸阳性",
+    "id": 164,
+    "veracity": "true"
+  },
+  {
+    "claim": "WHO认为：目前还没有专门预防治疗新冠病毒的药物",
+    "id": 165,
+    "veracity": "true"
+  },
+  {
+    "claim": "广州市民30日晚8点可用“穗康”小程序预约买口罩",
+    "id": 166,
+    "veracity": "true"
+  },
+  {
+    "claim": "接触沾染了病毒的物品属于接触传播，也可能感染病毒",
+    "id": 167,
+    "veracity": "true"
+  },
+  {
+    "claim": "握手、拥抱也可能传播新型冠状肺炎病毒",
+    "id": 168,
+    "veracity": "true"
+  },
+  {
+    "claim": "医用紫外线灯能消灭新型冠状病毒",
+    "id": 169,
+    "veracity": "true"
+  },
+  {
+    "claim": "二氧化氯消毒剂可以用于消毒",
+    "id": 170,
+    "veracity": "true"
+  },
+  {
+    "claim": "大部分新型肺炎患者只需2-4周就可被治愈",
+    "id": 171,
+    "veracity": "true"
+  },
+  {
+    "claim": "新加坡抵杭州航班有2名乘客发烧，全体乘客被隔离",
+    "id": 172,
+    "veracity": "true"
+  },
+  {
+    "claim": "钟南山院士表示目前已有药物准备用于肺炎临床治疗",
+    "id": 173,
+    "veracity": "true"
+  },
+  {
+    "claim": "勤洗手和戴口罩可以降低新型冠状病毒感染风险",
+    "id": 174,
+    "veracity": "true"
+  },
+  {
+    "claim": "春运期间核酸检测阴性返乡不用隔离",
+    "id": 175,
+    "veracity": "true"
+  },
+  {
+    "claim": "北京市大兴开展全员核酸检测，去大兴机场乘机，健康码不会变色",
+    "id": 176,
+    "veracity": "true"
+  },
+  {
+    "claim": "刚刚，黑龙江望奎县宣布封城了",
+    "id": 177,
+    "veracity": "true"
+  },
+  {
+    "claim": "钟南山称有证据证实连花清瘟对治疗新冠肺炎有效",
+    "id": 178,
+    "veracity": "true"
+  },
+  {
+    "claim": "英国王储查尔斯王子新冠病毒检测呈阳性",
+    "id": 179,
+    "veracity": "true"
+  },
+  {
+    "claim": "英国故意让数千万人感染以获得“群体免疫”",
+    "id": 180,
+    "veracity": "true"
+  },
+  {
+    "claim": "希腊暂停2020东京奥运火炬传递活动",
+    "id": 181,
+    "veracity": "true"
+  },
+  {
+    "claim": "意大利因疫情关闭所有学校",
+    "id": 182,
+    "veracity": "true"
+  },
+  {
+    "claim": "北京购买治疗发热咳嗽类药品须实名登记",
+    "id": 183,
+    "veracity": "true"
+  },
+  {
+    "claim": "新冠病毒全球变异毒株超70例",
+    "id": 184,
+    "veracity": "true"
+  },
+  {
+    "claim": "打过疫苗后仍需戴口罩",
+    "id": 185,
+    "veracity": "true"
+  },
+  {
+    "claim": "中国疫苗原辅料供应能确保疫苗大规模生产",
+    "id": 186,
+    "veracity": "true"
+  },
+  {
+    "claim": "阿联酋批准中国新冠疫苗投入使用",
+    "id": 187,
+    "veracity": "true"
+  },
+  {
+    "claim": "云南瑞丽将全员核酸检测",
+    "id": 188,
+    "veracity": "true"
+  },
+  {
+    "claim": "接种流感疫苗对疫情防控有很大帮助",
+    "id": 189,
+    "veracity": "true"
+  },
+  {
+    "claim": "北京：入境人员集中观察14天两次核酸检测",
+    "id": 190,
+    "veracity": "true"
+  },
+  {
+    "claim": "新冠肺炎诊疗方案试行第八版发布",
+    "id": 191,
+    "veracity": "true"
+  },
+  {
+    "claim": "新冠肺炎治疗用药纳入医保拟新增范围",
+    "id": 192,
+    "veracity": "true"
+  },
+  {
+    "claim": "学校食堂员工须持核酸检测证明上岗，不得售制冷食生食",
+    "id": 193,
+    "veracity": "true"
+  },
+  {
+    "claim": "新冠病毒不会通过食品和包装传播",
+    "id": 194,
+    "veracity": "true"
+  },
+  {
+    "claim": "高校校园内的学生和授课老师可不戴口罩",
+    "id": 195,
+    "veracity": "true"
+  },
+  {
+    "claim": "交通运输部：游轮复航初期载客率不超过定额50％",
+    "id": 196,
+    "veracity": "true"
+  },
+  {
+    "claim": "文旅部：剧院等演出场所观众人数不得超过座位数50%",
+    "id": 197,
+    "veracity": "true"
+  },
+  {
+    "claim": "国家卫健委：中小学校要设置临时留观场所",
+    "id": 198,
+    "veracity": "true"
+  },
+  {
+    "claim": "五部门：从澳门进入内地人员不再实行集中隔离医学观察14天",
+    "id": 199,
+    "veracity": "true"
+  },
+  {
+    "claim": "北京确定秋季学期开学时间，中小学、幼儿园、高校错峰返校",
+    "id": 200,
+    "veracity": "true"
+  }
+]
